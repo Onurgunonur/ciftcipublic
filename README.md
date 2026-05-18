@@ -6,7 +6,7 @@
 
 ## Özellikler
 
-- **Katalog** — Yaklaşık 300 bitkiyi Türkçe özet, bakım notları (güneş, toprak, su, gübre) ve gömülü görsellerle arayın. Kurulumdan sonra **internetsiz** çalışır.
+- **Katalog** — Yaklaşık 300 bitkiyi Türkçe özet, bakım notları (güneş, toprak, su, gübre) ve gömülü görsellerle arayın.
 - **Tanı** — **Kendi ücretsiz Pl@ntNet API anahtarınızla** fotoğraftan bitki tanıyın; sonuçlarda Türkçe ve bilimsel ad gösterilir, eşleşme varsa kataloğa gidilir.
 - **Açık veri** — Katalog görselleri ve özetleri açık kaynaklardan (Wikimedia Commons, Vikipedi); tam lisans metinleri uygulama içinde.
 
