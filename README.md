@@ -7,7 +7,6 @@
 ## Özellikler
 
 - **Katalog** — Yaklaşık 300 bitkiyi Türkçe özet, bakım notları (güneş, toprak, su, gübre) ve gömülü görsellerle arayın.
-- **Tanı** — **Kendi ücretsiz Pl@ntNet API anahtarınızla** fotoğraftan bitki tanıyın; sonuçlarda Türkçe ve bilimsel ad gösterilir, eşleşme varsa kataloğa gidilir.
 - **Açık veri** — Katalog görselleri ve özetleri açık kaynaklardan (Wikimedia Commons, Vikipedi); tam lisans metinleri uygulama içinde.
 
 Tanı sonuçları **tıbbi veya zirai tavsiye değildir**. Üretim kararları için yerel uzmanlara ve resmî kaynaklara başvurun.
@@ -34,68 +33,35 @@ Uygulama iPhone veya iPad’inizde yerel olarak şunları saklayabilir:
 
 - Bitki katalog verisi (gömülü ve uygulama veritabanında önbelleğe alınmış)
 - Görünüm / tema tercihiniz
-- Pl@ntNet API anahtarınız (Ayarlar’a girdikten sonra)
-- Uygulamada Pl@ntNet koşullarını kabul edip etmediğiniz
-- En fazla **10** son tanıma kaydı (küçük önizleme görselleri dahil)
 
 Bu veriler varsayılan olarak **bize iletilmez**.
 
-## 3. Bitki tanıma (Pl@ntNet)
-
-**Tanı** sekmesindeki bitki tanıma, **[Pl@ntNet](https://my.plantnet.org/)** tanıma API’sini kullanır. Kullanmak için:
-
-- Uygulamada Pl@ntNet koşullarını kabul etmelisiniz
-- [my.plantnet.org/settings/api-key](https://my.plantnet.org/settings/api-key) adresinden **kendi API anahtarınızı** girmelisiniz
-
-Tanı başlattığınızda:
-
-- Gönderdiğiniz fotoğraflar analiz için **Pl@ntNet** sunucularına (`my-api.plantnet.org`) iletilir
-- İşleme, [Pl@ntNet kullanım koşulları](https://my.plantnet.org/terms_of_use) ve [Pl@ntNet politikaları](https://my.plantnet.org/) kapsamındadır
-- Ücretsiz kotada geçerli limitler vardır (şu an hesap başına **günde 500 tanıma isteği** — güncel limit için Pl@ntNet sitesine bakın)
-
-Pl@ntNet parolanızı **almıyoruz**. API anahtarınız **yalnızca cihazınızda** saklanır.
-
-Uygulama, [erişim politikaları](https://my.plantnet.org/terms_of_use#access-policy) gereği zorunlu atıf metnini ve resmi **“Powered by Pl@ntNet”** logosunu gösterir.
-
-## 4. Toplamadığımız veriler
+## 3. Toplamadığımız veriler
 
 - Uygulama girişi veya geliştiriciye ait hesap yok
 - Reklam veya analitik SDK yok
 - Kişisel veri satışı yok
 - Geliştirici tarafından konum izleme yok
-- Tanı fotoğraflarını biz toplamıyoruz — yalnızca **siz** tanı başlattığınızda Pl@ntNet işliyor
-
-## 5. Kamera ve fotoğraf galerisi
-
-Uygulama şu izinleri isteyebilir:
-
-- Tanı için bitki fotoğrafı çekmek üzere **kamera**
-- Mevcut fotoğraf seçmek üzere **fotoğraf galerisi**
-- Kaydet eylemini kullandığınızda görselleri **Fotoğraflar** uygulamasına **kaydetme**
-
-Bu izinleri reddedebilirsiniz; ilgili izin olmadan kamera veya galeriden tanı çalışmaz.
-
-## 6. İnternet kullanımı
+  
+## 4. İnternet kullanımı
 
 | Özellik | İnternet gerekir mi? |
 |---------|----------------------|
 | Katalog gezintisi ve arama | Hayır (gömülü veri ve görseller) |
-| Bitki tanıma | Evet; geçerli Pl@ntNet API anahtarı gerekir |
-| Lisans veya Pl@ntNet kayıt bağlantıları | Evet (Safari açılır) |
 
-## 7. Üçüncü taraf içerik
+## 5. Üçüncü taraf içerik
 
 Uygulama, açık kaynaklardan bitki bilgisi ve görseller içerir (ör. Wikimedia Commons, Vikipedi özetleri). Lisanslar ve atıflar uygulama içinde **Ayarlar → Lisanslar** altında listelenir.
 
-## 8. Çocuklar
+## 6. Çocuklar
 
 Uygulama 13 yaşın altındaki çocuklara yönelik değildir. Bilerek çocuklardan kişisel bilgi toplamıyoruz.
 
-## 9. Değişiklikler
+## 7. Değişiklikler
 
 Bu politikayı güncelleyebiliriz. Üstteki “Son güncelleme” tarihi değişir. Değişikliklerden sonra uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
 
-## 10. İletişim
+## 8. İletişim
 
 - **Sorular veya gizlilik talepleri:**
 
@@ -104,21 +70,8 @@ Bu politikayı güncelleyebiliriz. Üstteki “Son güncelleme” tarihi değiş
 | | Bağlantı |
 |---|------|
 | **Hata bildirimi ve sorular** | [gunonur@gmail.com](mailto:gunonur@gmail.com) |
-| **Pl@ntNet API anahtarı ve kota** | [my.plantnet.org](https://my.plantnet.org/) |
-| **Pl@ntNet koşulları** | [Kullanım koşulları](https://my.plantnet.org/terms_of_use) |
-
-Tanı çalışmıyorsa: **Ayarlar**’da Pl@ntNet koşullarını kabul ettiğinizden, [my.plantnet.org/settings/api-key](https://my.plantnet.org/settings/api-key) adresinden geçerli bir API anahtarı yapıştırdığınızdan ve çiçek, yaprak veya meyvenin net göründüğü bir fotoğraf kullandığınızdan emin olun.
 
 ---
-
-## Pl@ntNet atıfı
-
-Bitki tanıma, Pl@ntNet tanıma API’sini kullanır. Uygulama, [Pl@ntNet erişim politikası](https://my.plantnet.org/terms_of_use#access-policy) gereği zorunlu atıf metnini ve resmi **“Powered by Pl@ntNet”** logosunu gösterir.
-
-> Kullanılan görsel bitki tanıma hizmeti, düzenli güncellenen ve https://my.plantnet.org/ adresinden erişilebilen Pl@ntNet tanıma API’sine dayanır.
-
-Çiftçi, Pl@ntNet veya Wikimedia Vakfı ile **bağlantılı değildir**.
-
 ## Lisanslar
 
 | Bileşen | Lisans / koşullar |
@@ -126,7 +79,6 @@ Bitki tanıma, Pl@ntNet tanıma API’sini kullanır. Uygulama, [Pl@ntNet erişi
 | Uygulama kaynağı | Depodaki lisans dosyasına bakın |
 | Katalog görselleri | Wikimedia Commons (dosya bazında; uygulama içi **Ayarlar → Lisanslar**) |
 | Vikipedi metinleri | CC BY-SA 4.0 (özetler; uygulama içi lisanslar) |
-| Pl@ntNet API | Kullanıcının kendi API anahtarı; [Pl@ntNet koşulları](https://my.plantnet.org/terms_of_use) |
 
 © 2026 Onur Gun
 
