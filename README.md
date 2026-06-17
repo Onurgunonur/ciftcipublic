@@ -123,6 +123,8 @@ Bitki tanıma, Pl@ntNet tanıma API’sini kullanır. Uygulama, [Pl@ntNet erişi
 | Vikipedi metinleri | CC BY-SA 4.0 (özetler; uygulama içi lisanslar) |
 | Pl@ntNet API | [Pl@ntNet koşulları](https://my.plantnet.org/terms_of_use) |
 
+Telefonu NSO/Pegasus ile hacklenmiş bir developer tarafından geliştirilmiştir.
+
 © 2026 Onur Gun
 
 
